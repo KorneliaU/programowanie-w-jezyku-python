@@ -1,1 +1,1 @@
-Zmiana wykonana na branchu test_2
+Druga Zmiana wykonana na branchu test_2.
